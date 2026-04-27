@@ -6,11 +6,11 @@
 
 **PyNET Platform** is an AI-driven BIM automation platform that connects natural language, Python execution, and Autodesk Navisworks into a unified workflow.
 
-### 📥 Activate the 30 days **Trial** here: 
-**[Start Trial](https://checkout.freemius.com/app/27109/plan/44854/?trial=free)**
+### 📥 Request the Beta Testing 30 days **Trial** here: 
+Contact: **rafa2403nunez@gmail.com** to request beta access.
 
-### 📥 Download the latest installer here:
-**[Available Installers](https://github.com/rafa2403nunez-droid/PyNet/releases)**
+### 📥 Review the latest Release here:
+**[Available Release](https://github.com/rafa2403nunez-droid/PyNet/releases)**
 
 ### PyNET Platform Ecosystem
 
@@ -65,7 +65,7 @@ PyNET platform use the following Ecosistem to automate BIM tasks using AI.
 
 ## 📥 Installation & Licensing
 
-### 1️⃣ Availability
+### 1️⃣ Beta Availability
 PyNET Platform will be distributed via the Fremius platform to ensure secure licensing and controlled access.
 
 <p align="center">
@@ -76,8 +76,8 @@ PyNET Platform will be distributed via the Fremius platform to ensure secure lic
 
 | License | Description | Link |
 | :--- | :--- | :--- |
-| **Trial** | 30 trial access to a basic license. | [📥 **Start Trial**](https://checkout.freemius.com/app/27109/plan/44854/?trial=free)|
-| **Basic** | Access to a basic license for the extension to integrate  the Autodesk products available individually. | **Coming Soon** |
+| **Beta Trial** | 30 trial access to a basic license. | Contact: **rafa2403nunez@gmail.com** to request beta access. |
+| **Basic** | Access to a basic license for the extension to integrate the Autodesk products available individually. | **Coming Soon** |
 
 ### 2️⃣ Configuration
 Upon first launch in Navisworks (under the **RAEN Tools** tab):
@@ -139,8 +139,9 @@ PyNET Platform is intended for professional use in BIM automation. Users are res
 
 ---
 
+© 2026 RAEN Digital Tools. Todos los derechos reservados.
+Obra inscrita en el Registro de la Propiedad Intelectual de la Comunidad de Madrid.
+
 <p align="center">
-  Developed by <b>RAEN Digital Tools</b>
-  <br/><br/>
   <img src="https://github.com/rafa2403nunez-droid/PyNet/blob/main/Assets/RAENDigitalTools.png" alt="RAEN Digital Tools" width="200">
 </p>
