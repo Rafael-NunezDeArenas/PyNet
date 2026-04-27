@@ -85,6 +85,10 @@ Upon first launch in Navisworks (under the **RAEN Tools** tab):
 * Set your local Python installation path.
 * Define the folder where your Python scripts are stored.
 
+| Tutorial | Description | Video |
+| :--- | :--- | :--- |
+| **Configuration for navisworks Manage** | How to configure PyNet platform Addin in Navisworks Manage. | [🎬 Watch here](https://www.youtube.com/watch?v=V7zoh9SrnSY)  |
+
 ---
 
 ## 🤖 AI Integration via MCP (Model Context Protocol)
