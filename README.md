@@ -89,6 +89,7 @@ Upon first launch in Navisworks (under the **RAEN Tools** tab):
 | :--- | :--- | :--- |
 | **Configuration for navisworks Manage** | How to configure PyNet platform Addin in Navisworks Manage. | [🎬 Watch here](https://www.youtube.com/watch?v=3eR5GAOkEug)  |
 | **Browse for navisworks Manage** | How to browse scripts PyNet platform Addin in Navisworks Manage. | [🎬 Watch here](https://www.youtube.com/watch?v=rHwAKqU6Vck)  |
+| **Manage PyNet for navisworks Manage** | How to manage output messages and user interface costumization| [🎬 Watch here](https://www.youtube.com/watch?v=furMbMkhiCU)  |
 
 ---
 
