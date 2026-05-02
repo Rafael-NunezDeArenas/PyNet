@@ -115,6 +115,10 @@ This installs the MCP server and auto-detects all supported AI clients:
 - **Cline** (VS Code extension)
 - **Roo Code** (VS Code extension)
 
+| Tutorial | Description | Video |
+| :--- | :--- | :--- |
+| **PyNET and Codex Integration** | How to configure PyNet bridge with Codex and query into Navisworks. | [🎬 Watch here](https://youtu.be/HdmbCO_pTN0)  |
+
 > For manual setup or other clients, see the [PyNet Bridge repository](https://github.com/rafa2403nunez-droid/PyNetBridge).
 
 **Important Note on AI Providers:**
