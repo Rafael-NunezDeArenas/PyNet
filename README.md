@@ -34,6 +34,8 @@ PyNET platform use the following Ecosistem to automate BIM tasks using AI.
 
 **PyNET Platform** introduces a closed-loop AI-assisted execution system, turning Navisworks into an intelligent, conversational co-pilot. Unlike static plugins, PyNET Platform learns and adapts to the specific needs of your BIM model.
 
+[🎬 Watch here AI Navisworks Coordination Workflow](https://www.youtube.com/watch?v=Sfq9iXJFacU)  
+
 ### 🔄 How it works:
 * **Intent:** The user requests an action in natural language (e.g., *"Find all clashes in Level 1 and export them to Excel"*).
 * **Generation:** The AI generates a specialized Python script using the Navisworks API.
