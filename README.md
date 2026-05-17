@@ -80,6 +80,7 @@ PyNET Platform will be distributed via the Fremius platform to ensure secure lic
 | :--- | :--- | :--- |
 | **Beta Trial** | 30 trial access to a basic license. | Contact: **rafa2403nunez@gmail.com** to request beta access. |
 | **Basic** | Access to a basic license for the extension to integrate the Autodesk products available individually. | **Coming Soon** |
+| **Pro** | Access to a Pro license for the extension to integrate the Autodesk products available at the same time. | **Coming Soon** |
 
 ### 2️⃣ Configuration
 Upon first launch in Navisworks (under the **RAEN Tools** tab):
