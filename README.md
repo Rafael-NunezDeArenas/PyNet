@@ -34,6 +34,8 @@ PyNET platform use the following Ecosistem to automate BIM tasks using AI.
 
 **PyNET Platform** introduces a closed-loop AI-assisted execution system, turning Navisworks into an intelligent, conversational co-pilot. Unlike static plugins, PyNET Platform learns and adapts to the specific needs of your BIM model.
 
+[🎬 Watch here AI Navisworks Coordination Workflow](https://www.youtube.com/watch?v=Sfq9iXJFacU)  
+
 ### 🔄 How it works:
 * **Intent:** The user requests an action in natural language (e.g., *"Find all clashes in Level 1 and export them to Excel"*).
 * **Generation:** The AI generates a specialized Python script using the Navisworks API.
@@ -85,6 +87,12 @@ Upon first launch in Navisworks (under the **RAEN Tools** tab):
 * Set your local Python installation path.
 * Define the folder where your Python scripts are stored.
 
+| Tutorial | Description | Video |
+| :--- | :--- | :--- |
+| **Configuration for navisworks Manage** | How to configure PyNet platform Addin in Navisworks Manage. | [🎬 Watch here](https://www.youtube.com/watch?v=3eR5GAOkEug)  |
+| **Browse for navisworks Manage** | How to browse scripts PyNet platform Addin in Navisworks Manage. | [🎬 Watch here](https://www.youtube.com/watch?v=rHwAKqU6Vck)  |
+| **Manage PyNet for navisworks Manage** | How to manage output messages and user interface costumization| [🎬 Watch here](https://www.youtube.com/watch?v=furMbMkhiCU)  |
+
 ---
 
 ## 🤖 AI Integration via MCP (Model Context Protocol)
@@ -108,6 +116,10 @@ This installs the MCP server and auto-detects all supported AI clients:
 - **Claude Code** (VS Code extension / CLI)
 - **Cline** (VS Code extension)
 - **Roo Code** (VS Code extension)
+
+| Tutorial | Description | Video |
+| :--- | :--- | :--- |
+| **PyNET and Codex Integration** | How to configure PyNet bridge with Codex and query into Navisworks. | [🎬 Watch here](https://youtu.be/HdmbCO_pTN0)  |
 
 > For manual setup or other clients, see the [PyNet Bridge repository](https://github.com/rafa2403nunez-droid/PyNetBridge).
 
