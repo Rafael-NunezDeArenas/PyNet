@@ -74,7 +74,7 @@ PyNET Platform will be distributed via the Fremius platform to ensure secure lic
   <img src="https://github.com/rafa2403nunez-droid/PyNet/blob/main/Assets/PyNETPlans.png" width="500"/>
 </p>
 
-> These prices are indicative for individual users, in case to integrate the tool in a comoany it is necessary to evaluate scope via Enterprise License. The tool is currently in Beta and can only be acquired through a trial period and formal approval from RAEN Tools, by accepting the terms of use for testers.
+> These prices are indicative for individual users, in case to integrate the tool in a company it is necessary to evaluate the scope via Enterprise License. The tool is currently in Beta and can only be acquired through a trial period and formal approval from RAEN Tools, by accepting the terms of use for testers.
 
 | License | Description | Link |
 | :--- | :--- | :--- |
