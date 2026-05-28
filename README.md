@@ -7,7 +7,7 @@
 **PyNET Platform** is an AI-driven BIM automation platform that connects natural language, Python execution, and Autodesk Navisworks into a unified workflow.
 
 ### 📥 Request the Beta Testing 30 days **Trial** here: 
-Contact: **rafa2403nunez@gmail.com** to request beta access.
+Contact: **info@raendt.com** to request beta access.
 
 ### 📥 Review the latest Release here:
 **[Available Release](https://github.com/rafa2403nunez-droid/PyNet/releases)**
