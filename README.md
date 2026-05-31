@@ -2,12 +2,12 @@
   <img src="https://github.com/rafa2403nunez-droid/PyNet/blob/main/Assets/PyNetLogo.png" width="150"/>
 </p>
 
-# PyNET Platform 🧠🐍
+# PyNET Platform
 
 **PyNET Platform** is an AI-driven BIM automation platform that connects natural language, Python execution, and Autodesk Navisworks into a unified workflow.
 
 ### 📥 Request the Beta Testing 30 days **Trial** here: 
-Contact: **rafa2403nunez@gmail.com** to request beta access.
+Contact: **info@raendt.com** to request beta access.
 
 ### 📥 Review the latest Release here:
 **[Available Release](https://github.com/rafa2403nunez-droid/PyNet/releases)**
@@ -24,9 +24,9 @@ PyNET platform use the following Ecosistem to automate BIM tasks using AI.
 
 | Component | Repository | Purpose |
 | :--- | :--- | :--- |
-| **PyNet Platform** | [rafa2403nunez-droid/PyNet](https://github.com/rafa2403nunez-droid/PyNet) | Navisworks/Revit/Civil 3D plugin that hosts the Python.NET engine providing UI Layer and AI integration with BIM Models |
-| **PyNet Bridge (MCP)** | [rafa2403nunez-droid/PyNetBridge](https://github.com/rafa2403nunez-droid/PyNetBridge) | MCP server that connects AI models to PyNET with including secure scripts validation |
-| **PyNet Library** | [rafa2403nunez-droid/PyNetLibrary](https://github.com/rafa2403nunez-droid/PyNetLibrary) | Python Scripts reference library for Revit, Navisworks and Civil 3D and AI context|
+| **PyNet Platform** | [PyNet](https://github.com/rafa2403nunez-droid/PyNet) | Navisworks/Revit/Civil 3D plugin that hosts the Python.NET engine providing UI Layer and AI integration with BIM Models |
+| **PyNet Bridge (MCP)** | [PyNetBridge](https://github.com/rafa2403nunez-droid/PyNetBridge) | MCP server that connects AI models to PyNET with including secure scripts validation |
+| **PyNet Library** | [PyNetLibrary](https://github.com/rafa2403nunez-droid/PyNetLibrary) | Python Scripts reference library for Revit, Navisworks and Civil 3D and AI context|
 
 ---
 
@@ -74,13 +74,14 @@ PyNET Platform will be distributed via the Fremius platform to ensure secure lic
   <img src="https://github.com/rafa2403nunez-droid/PyNet/blob/main/Assets/PyNETPlans.png" width="500"/>
 </p>
 
-> These prices are indicative. The tool is currently in Beta and can only be acquired through a trial period and formal approval from RAEN Tools, by accepting the terms of use for testers.
+> These prices are indicative for individual users, in case to integrate the tool in a company it is necessary to evaluate the scope via Enterprise License. The tool is currently in Beta and can only be acquired through a trial period and formal approval from RAEN Tools, by accepting the terms of use for testers.
 
 | License | Description | Link |
 | :--- | :--- | :--- |
 | **Beta Trial** | 30 trial access to a basic license. | Contact: **rafa2403nunez@gmail.com** to request beta access. |
 | **Basic** | Access to a basic license for the extension to integrate the Autodesk products available individually. | **Coming Soon** |
 | **Pro** | Access to a Pro license for the extension to integrate the Autodesk products available at the same time. | **Coming Soon** |
+| **Enterprise** | integrate PyNET in your company with an implantation project service. | **Coming Soon** |
 
 ### 2️⃣ Configuration
 Upon first launch in Navisworks (under the **RAEN Tools** tab):
