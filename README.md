@@ -24,9 +24,9 @@ PyNET platform use the following Ecosistem to automate BIM tasks using AI.
 
 | Component | Repository | Purpose |
 | :--- | :--- | :--- |
-| **PyNet Platform** | [rafa2403nunez-droid/PyNet](https://github.com/rafa2403nunez-droid/PyNet) | Navisworks/Revit/Civil 3D plugin that hosts the Python.NET engine providing UI Layer and AI integration with BIM Models |
-| **PyNet Bridge (MCP)** | [rafa2403nunez-droid/PyNetBridge](https://github.com/rafa2403nunez-droid/PyNetBridge) | MCP server that connects AI models to PyNET with including secure scripts validation |
-| **PyNet Library** | [rafa2403nunez-droid/PyNetLibrary](https://github.com/rafa2403nunez-droid/PyNetLibrary) | Python Scripts reference library for Revit, Navisworks and Civil 3D and AI context|
+| **PyNet Platform** | [PyNet](https://github.com/rafa2403nunez-droid/PyNet) | Navisworks/Revit/Civil 3D plugin that hosts the Python.NET engine providing UI Layer and AI integration with BIM Models |
+| **PyNet Bridge (MCP)** | [PyNetBridge](https://github.com/rafa2403nunez-droid/PyNetBridge) | MCP server that connects AI models to PyNET with including secure scripts validation |
+| **PyNet Library** | [PyNetLibrary](https://github.com/rafa2403nunez-droid/PyNetLibrary) | Python Scripts reference library for Revit, Navisworks and Civil 3D and AI context|
 
 ---
 
