@@ -78,7 +78,7 @@ PyNET Platform will be distributed via the Fremius platform to ensure secure lic
 
 | License | Description | Link |
 | :--- | :--- | :--- |
-| **Beta Trial** | 30 trial access to a basic license. | Contact: **rafa2403nunez@gmail.com** to request beta access. |
+| **Beta Trial** | 30 trial access to a basic license. | Contact: **info@raendt.com** to request beta access. |
 | **Basic** | Access to a basic license for the extension to integrate the Autodesk products available individually. | **Coming Soon** |
 | **Pro** | Access to a Pro license for the extension to integrate the Autodesk products available at the same time. | **Coming Soon** |
 | **Enterprise** | integrate PyNET in your company with an implantation project service. | **Coming Soon** |
