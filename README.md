@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rafa2403nunez-droid/PyNet/blob/main/Assets/PyNetLogo.png" width="150"/>
+  <img src="https://github.com/rafa2403nunez-droid/PyNet/blob/main/Assets/PyNetLogo.png" width="400"/>
 </p>
 
 # PyNET Platform
